@@ -26,11 +26,6 @@
   </tr>
 </table>
 
-
----
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gigatorvaldz&theme=dark">
-
 ---
 
 <picture>
